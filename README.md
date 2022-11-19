@@ -1,6 +1,8 @@
 # react-tutorial
 mac에서 깃오류가 장난 아니다 차근차근 하나씩 장리를 해보자
 
+username for 'https://github.com' << 이렇게
+
 유저 네임과 유저 이메일을 등록시켜도 클론이나 푸쉬할때 다시 깃허브 아이디를 물어보는데 모든 아이디를 쳐봐도 안된다...
 
 프로젝트에서 git remote -v 를 입려하고 https인지 git.github.com인지 확인한다.
