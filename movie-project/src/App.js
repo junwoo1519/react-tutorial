@@ -9,15 +9,8 @@ function App() {
   return (
     <div className="App">
       <Header headerMessage={state.headerMessage}/>
-
-      <div>Main content</div>
-      <StyledDiv />
     </div>
   );
 }
-
-const StyledDiv = styled.div`
-  
-`;
 
 export default App;
