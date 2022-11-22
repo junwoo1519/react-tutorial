@@ -4,7 +4,7 @@ import './App.css';
 import data from "./data.json";
 
 import Header from "./header/header";
-import MovieList from  "./movieList/movieList"
+import MovieList from "./movieList/movieList";
 
 function App() {
   const state = {
